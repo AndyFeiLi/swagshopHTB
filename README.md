@@ -4,7 +4,7 @@
 
 2. create account and purchase item 
 
-3. login to admin portal with creds forme:form
+3. login to admin portal with creds forme:forme
 
 4. create invoice and shop order
 
